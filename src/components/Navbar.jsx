@@ -5,8 +5,8 @@ import { CiMenuBurger } from "react-icons/ci";
 
 const Navbar = () => {
   return (
-    <nav className='bg-amber-400'>
-        <div className='lg:hidden '>
+    <nav className='bg-amber-400 min-h-16'>
+        <div className='lg:hidden text-4xl pt-4'>
         <CiMenuBurger />
        </div>
         <ul className='h-13 gap-9 justify-center items-center font-bold hidden lg:flex' >          
