@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='flex items-center justify-center gap-7 bg-white'>
+    <div className='flex flex-wrap items-center justify-center gap-7 bg-white'>
         <div className='w-100 grid grid-cols-2 h-80 items-end'>
             <div className=' p-7 flex flex-col justify-around items-center'>
                 <h1 className='text-3xl'>WOODEN MINIMALISTC CHAIRS</h1>
