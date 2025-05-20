@@ -2,8 +2,8 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="flex justify-around items-center mt-6 flex-wrap bg-white">
-      <div className="w-70 flex flex-col m-4">
+    <div className="flex justify-around items-center flex-wrap bg-white m-12 p-9 gap-4">
+      <div className="w-70 flex flex-col ">
         <div>BASE BLUETOOTH WIRELESS HEADPHONES</div>
         <div>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum,
