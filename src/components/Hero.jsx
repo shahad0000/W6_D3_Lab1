@@ -4,9 +4,9 @@ const Hero = () => {
   return (
     <div className='flex flex-wrap items-end justify-center gap-7 bg-white'>
         <div className='w-100 grid grid-cols-2 h-80 items-end'>
-            <div className=' p-7 flex flex-col justify-around items-center'>
+            <div className=' p-7 flex flex-col  items-around'>
                 <h1 className='text-3xl'>WOODEN MINIMALISTC CHAIRS</h1>
-                <h4 className='text-2xl'>SALE UP TO</h4>
+                <h4 className='text-2xl my-3'>SALE UP TO</h4>
                 <h2 className='text-green-600 text-3xl'>40% OFF</h2>
             </div>
             <img src="imgs/chair.png" alt="" />
