@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="flex justify-around items-center flex-wrap bg-white m-12 p-9 gap-4">
+    <div className="flex justify-around items-center flex-wrap bg-white m-10 p-9 gap-4">
       <div className="w-70 flex flex-col ">
         <div>BASE BLUETOOTH WIRELESS HEADPHONES</div>
         <div>
