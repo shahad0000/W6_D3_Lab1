@@ -43,7 +43,7 @@ const Products = () => {
         <hr className='text-gray-400 mb-5'/>
         <div className='grid grid-cols-1 md:grid-cols-3 gap-3'>
             {products.map((items, index) => (
-                <div key={index} className='flex border border-gray-200 bg-white p-3'>
+                <div key={index} className='flex border border-gray-200 bg-white p-3 m-2'>
                     <img width={100} src={items.img} alt="" />
                     <div className='flex flex-col justify-around'>
                         <div>{items.title}</div>
