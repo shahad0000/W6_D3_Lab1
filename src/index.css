@@ -4,3 +4,7 @@
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
+
+body {
+  background-color: rgb(244, 246, 248);
+}
